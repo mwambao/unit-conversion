@@ -66,6 +66,10 @@ button {
     
 }
 
+p {
+    color: green;
+}
+
 h2 {
     border: 1px solid red;
     margin-top: 20px;
