@@ -70,7 +70,8 @@ button {
     height: 6.786rem;
     border-radius: 0.5%;
     border: 1px solid yellow;
-    
+    margin-top: 0.625rem;
+    margin-bottom: 1.25rem;
 }
 
 .majibu {
