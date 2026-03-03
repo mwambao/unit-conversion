@@ -29,7 +29,7 @@
     margin-top: 1.25rem;
     width: 31.25rem;
     height: 17.813rem;
-     border-radius: 0.5%;
+    border-radius: 0.5%;
     
 }
 
@@ -37,9 +37,10 @@
     grid-area: bottom-section;
     margin-top: 1.25rem;
     margin-bottom: 1.25rem;
+   
 }
 
-.input-text{
+#input-text{
     width: 7.313rem;
     height: 5.188rem;
     border-radius: 5%;
@@ -49,7 +50,12 @@
     border: 1px solid white;
     color: white;
     background-color: #6943FF;
+    font-size: 60px;
+    font-weight: bold;
+    padding-left: 0.813px;
+    
 }
+
 
 button {
     width: 7.313rem;
@@ -63,14 +69,18 @@ button {
     width: 31.25rem;
     height: 6.786rem;
     border-radius: 0.5%;
+    border: 1px solid yellow;
     
 }
 
+.majibu {
+    border: 1px solid green
+}
 p {
     color: green;
 }
 
 h2 {
-    border: 1px solid red;
+
     margin-top: 20px;
 }

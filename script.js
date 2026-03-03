@@ -9,7 +9,7 @@ convertButton.addEventListener("click", function() {
     console.log("button was clicked");
 
     //value to calculate
-    console.log(valueToCalculate.value);
+    //console.log(valueToCalculate);
 
     //final calculation
     //20 meters = 65.616 feet | 20 feet = 6.096 meters
